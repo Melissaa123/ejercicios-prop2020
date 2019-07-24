@@ -1,4 +1,4 @@
-#!/usr/bi8n/bash
+#!/usr/bin/bash
 echo "Inicia el script 2"
 ./s1.sh
 mkdir $1
